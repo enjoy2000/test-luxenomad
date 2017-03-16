@@ -1,7 +1,7 @@
 # Test LuxeNomad
 
 ### 1. In python what’s the difference between *args **kwargs explain with an example
-`*` is something like `tuple` while ``**` is something like `dictionary` for function parameters.
+`*` is something like `tuple` while `**` is something like `dictionary` for function parameters.
 
 example:
 ```python
