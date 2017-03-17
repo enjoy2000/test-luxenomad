@@ -60,7 +60,7 @@ only use when I need to do `event handling` like when I do on a `chatbot` for di
 and send `events` whenever have a new message, then I will do stuff on that message.
 
 Or use for some `event loop` when I want that task keep doing all the time.
-`https://github.com/enjoy2000/discord-pokemon-go-snipe-bot/blob/master/bot.py`[1]
+[demo](https://github.com/enjoy2000/discord-pokemon-go-snipe-bot/blob/master/bot.py)
 
 Anw, I don't know this well.
 
@@ -73,5 +73,3 @@ Output: 7
 ```python
 python3 test6.py
 ```
-
-[1]: https://github.com/enjoy2000/discord-pokemon-go-snipe-bot/blob/master/bot.py
